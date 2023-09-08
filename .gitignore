@@ -1,0 +1,4 @@
+comp.bat
+
+# Para ignorar todos os arquivos . class
+*.class
