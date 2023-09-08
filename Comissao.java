@@ -18,8 +18,5 @@ public class Comissao{
 
         //Saida
         JOptionPane.showMessageDialog(null,comissao);
-
-
-
     }
 }
